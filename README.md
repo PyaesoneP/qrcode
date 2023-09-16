@@ -23,8 +23,8 @@ A simple QR code built with react
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PyaesoneP/qrcode)
-- Live Site URL: [Add live site URL here](https://pyaesonep.github.io/qrcode/)
+- Solution URL: [Repo](https://github.com/PyaesoneP/qrcode)
+- Live Site URL: [Live](https://pyaesonep.github.io/qrcode/)
 
 ### Built with
 
@@ -42,4 +42,4 @@ I will work on more React projects
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/PyaesoneP)
+- Frontend Mentor - [@PyaesoneP](https://www.frontendmentor.io/profile/PyaesoneP)
